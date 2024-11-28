@@ -24,7 +24,7 @@
 
 1. Запуск скрипта для демонстрации задания
 
-```python .\visualize_commits.py .\config.xml```
+```python visualize_commits.py```
 
 
 ## Примеры использования
